@@ -6,12 +6,12 @@ body{
 
 header{
     border-bottom: solid 2px rgb(216, 123, 230);
-    pedding: 20px;
+    padding: 20px;
     font-size: 32px;
     color:rgb(216, 123, 230);
 }
 section{
-    background-color: black
+    background-color: black;
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex;
